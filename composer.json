@@ -1,5 +1,5 @@
 {
-    "name": "mixerapi/jwt-auth",
+    "name": "stevewaffles/jwt-auth",
     "description": "A JWT authentication plugin for CakePHP.",
     "type": "cakephp-plugin",
     "license": "MIT",
